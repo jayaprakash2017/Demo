@@ -5,7 +5,7 @@
   <artifactId>fetchinfo1.0</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>fetchinfo1.0 Maven Webapp</name>
-  <url>http://maven.apache.org</url>
+  <url>http://maven.apache.org</url> 
     
     
   <properties>
